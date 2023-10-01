@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scriptman1
 - 👀 I’m interested in scripting.
 - 🌱 I’m currently learning scripting
-- 💞️ I’m looking to collaborate on scripting..
+- 💞️ I’m looking to collaborate on scripting.
 - 📫 How to reach me just script
 
 <!---
